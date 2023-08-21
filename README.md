@@ -1,5 +1,5 @@
 
-# Python: Automation - Download / update dataset / send updated information via email 
+# Automation with Python - Download / update dataset / send updated information via email 
 
 
 
