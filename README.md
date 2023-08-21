@@ -1,5 +1,5 @@
 
-# Python: Automation - Download / update dataset and send via email updated information
+# Python: Automation - Download / update dataset / send updated information via email 
 
 
 
@@ -41,7 +41,7 @@
 - Send email with apdated values
 ![image](https://github.com/tiagoc0sta/02_automation_update_excel_send-email_/assets/63982700/a0b4b1d7-83a1-4453-8b92-13f992d0b867)
 
-# Automation Project using Python and Selenium
+# Lesssons learned
 
 In this project, I automated the process of downloading and updating datasets, followed by sending the updated information via email. Here's what I learned:
 
